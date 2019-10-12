@@ -6,7 +6,7 @@
     <body>
         <?php
             echo "saya sedang belajar PHP<br>";
-            echo "<p>Belajar PHP hingga jadi master</p>";
+            echo "<p>Belajar PHP</p>";
         ?>
     </body>
 </html>
